@@ -1,0 +1,18 @@
+{
+  "gui.igoa.to_main": "Back to Main Menu",
+  "gui.igoa.title": "User Manager",
+  "gui.igoa.title2": "Do you want to random summon 10 users?",
+  "gui.igoa.title3": "Edit User {user}",
+  "gui.igoa.title4": "Add User",
+  "gui.igoa.add": "Add",
+  "gui.igoa.name": "User Name",
+  "gui.igoa.uuid": "User UUID",
+  "gui.igoa.del": "Del User",
+  "options.igoa.edit": "Edit",
+  "commands.igoa.add": "Added {n} users.",
+  "commands.igoa.del": "Deleted {n} users.",
+  "commands.igoa.list": "Users:",
+  "commands.igoa.list.name": "User name:",
+  "commands.igoa.list.uuid": "User UUID:",
+  "commands.igoa.list.none": "Can't found the user."
+}

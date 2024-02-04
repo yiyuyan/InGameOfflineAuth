@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.IGOA.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "igoa.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "PauseScreenMixin",
+    "TitleScreenMixin",
+    "MinecraftMixin",
+    "MinecraftMixin2",
+    "UserMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

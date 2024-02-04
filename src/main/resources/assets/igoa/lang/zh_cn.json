@@ -1,0 +1,18 @@
+{
+  "gui.igoa.to_main": "返回到主界面",
+  "gui.igoa.title": "用户管理器",
+  "gui.igoa.title2": "是否需要随机生成10个账号?",
+  "gui.igoa.title3": "编辑账号 {user}",
+  "gui.igoa.title4": "添加账号",
+  "gui.igoa.add": "添加",
+  "gui.igoa.name": "账号名",
+  "gui.igoa.uuid": "账号UUID",
+  "gui.igoa.del": "删除账号",
+  "options.igoa.edit": "编辑",
+  "commands.igoa.add": "成功添加了{n}个账号。",
+  "commands.igoa.del": "成功删除了{n}个账号。",
+  "commands.igoa.list": "所有账号:",
+  "commands.igoa.list.name": "账户名:",
+  "commands.igoa.list.uuid": "账号UUID:",
+  "commands.igoa.list.none": "无法找到账号。"
+}
